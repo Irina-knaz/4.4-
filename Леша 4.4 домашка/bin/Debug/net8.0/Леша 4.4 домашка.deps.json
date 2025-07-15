@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Леша 4.4 домашка/1.0.0": {
+        "runtime": {
+          "Леша 4.4 домашка.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Леша 4.4 домашка/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

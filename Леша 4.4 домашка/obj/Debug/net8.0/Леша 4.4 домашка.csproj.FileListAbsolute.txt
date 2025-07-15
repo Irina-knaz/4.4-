@@ -1,0 +1,42 @@
+C:\Users\leon\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\bin\Debug\net8.0\Леша 4.4 домашка.exe
+C:\Users\leon\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\bin\Debug\net8.0\Леша 4.4 домашка.deps.json
+C:\Users\leon\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\bin\Debug\net8.0\Леша 4.4 домашка.runtimeconfig.json
+C:\Users\leon\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\bin\Debug\net8.0\Леша 4.4 домашка.dll
+C:\Users\leon\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\bin\Debug\net8.0\Леша 4.4 домашка.pdb
+C:\Users\leon\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\obj\Debug\net8.0\Леша 4.4 домашка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leon\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\obj\Debug\net8.0\Леша 4.4 домашка.AssemblyInfoInputs.cache
+C:\Users\leon\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\obj\Debug\net8.0\Леша 4.4 домашка.AssemblyInfo.cs
+C:\Users\leon\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\obj\Debug\net8.0\Леша 4.4 домашка.csproj.CoreCompileInputs.cache
+C:\Users\leon\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\obj\Debug\net8.0\Леша 4.4 домашка.dll
+C:\Users\leon\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\obj\Debug\net8.0\refint\Леша 4.4 домашка.dll
+C:\Users\leon\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\obj\Debug\net8.0\Леша 4.4 домашка.pdb
+C:\Users\leon\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\obj\Debug\net8.0\Леша 4.4 домашка.genruntimeconfig.cache
+C:\Users\leon\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\obj\Debug\net8.0\ref\Леша 4.4 домашка.dll
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\bin\Debug\net8.0\Леша 4.4 домашка.exe
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\bin\Debug\net8.0\Леша 4.4 домашка.deps.json
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\bin\Debug\net8.0\Леша 4.4 домашка.runtimeconfig.json
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\bin\Debug\net8.0\Леша 4.4 домашка.dll
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\bin\Debug\net8.0\Леша 4.4 домашка.pdb
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\obj\Debug\net8.0\Леша 4.4 домашка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\obj\Debug\net8.0\Леша 4.4 домашка.AssemblyInfoInputs.cache
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\obj\Debug\net8.0\Леша 4.4 домашка.AssemblyInfo.cs
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\obj\Debug\net8.0\Леша 4.4 домашка.csproj.CoreCompileInputs.cache
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\obj\Debug\net8.0\Леша 4.4 домашка.dll
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\obj\Debug\net8.0\refint\Леша 4.4 домашка.dll
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\obj\Debug\net8.0\Леша 4.4 домашка.pdb
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\obj\Debug\net8.0\Леша 4.4 домашка.genruntimeconfig.cache
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\Леша 4.4 домашка\Леша 4.4 домашка\obj\Debug\net8.0\ref\Леша 4.4 домашка.dll
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\4.4 Массивы сумма\Леша 4.4 домашка\bin\Debug\net8.0\Леша 4.4 домашка.exe
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\4.4 Массивы сумма\Леша 4.4 домашка\bin\Debug\net8.0\Леша 4.4 домашка.deps.json
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\4.4 Массивы сумма\Леша 4.4 домашка\bin\Debug\net8.0\Леша 4.4 домашка.runtimeconfig.json
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\4.4 Массивы сумма\Леша 4.4 домашка\bin\Debug\net8.0\Леша 4.4 домашка.dll
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\4.4 Массивы сумма\Леша 4.4 домашка\bin\Debug\net8.0\Леша 4.4 домашка.pdb
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\4.4 Массивы сумма\Леша 4.4 домашка\obj\Debug\net8.0\Леша 4.4 домашка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\4.4 Массивы сумма\Леша 4.4 домашка\obj\Debug\net8.0\Леша 4.4 домашка.AssemblyInfoInputs.cache
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\4.4 Массивы сумма\Леша 4.4 домашка\obj\Debug\net8.0\Леша 4.4 домашка.AssemblyInfo.cs
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\4.4 Массивы сумма\Леша 4.4 домашка\obj\Debug\net8.0\Леша 4.4 домашка.csproj.CoreCompileInputs.cache
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\4.4 Массивы сумма\Леша 4.4 домашка\obj\Debug\net8.0\Леша 4.4 домашка.dll
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\4.4 Массивы сумма\Леша 4.4 домашка\obj\Debug\net8.0\refint\Леша 4.4 домашка.dll
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\4.4 Массивы сумма\Леша 4.4 домашка\obj\Debug\net8.0\Леша 4.4 домашка.pdb
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\4.4 Массивы сумма\Леша 4.4 домашка\obj\Debug\net8.0\Леша 4.4 домашка.genruntimeconfig.cache
+C:\Users\leon\OneDrive\Рабочий стол\source\repos\4.4 Массивы сумма\Леша 4.4 домашка\obj\Debug\net8.0\ref\Леша 4.4 домашка.dll
