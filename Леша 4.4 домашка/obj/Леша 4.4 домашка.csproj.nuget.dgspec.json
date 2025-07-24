@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leon\\OneDrive\\Рабочий стол\\source\\repos\\4.4 Массивы сумма\\Леша 4.4 домашка\\Леша 4.4 домашка.csproj": {}
+    "C:\\Users\\leon\\OneDrive\\Рабочий стол\\source\\repos\\Массивы сумма\\Леша 4.4 домашка\\Леша 4.4 домашка.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leon\\OneDrive\\Рабочий стол\\source\\repos\\4.4 Массивы сумма\\Леша 4.4 домашка\\Леша 4.4 домашка.csproj": {
+    "C:\\Users\\leon\\OneDrive\\Рабочий стол\\source\\repos\\Массивы сумма\\Леша 4.4 домашка\\Леша 4.4 домашка.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leon\\OneDrive\\Рабочий стол\\source\\repos\\4.4 Массивы сумма\\Леша 4.4 домашка\\Леша 4.4 домашка.csproj",
+        "projectUniqueName": "C:\\Users\\leon\\OneDrive\\Рабочий стол\\source\\repos\\Массивы сумма\\Леша 4.4 домашка\\Леша 4.4 домашка.csproj",
         "projectName": "Леша 4.4 домашка",
-        "projectPath": "C:\\Users\\leon\\OneDrive\\Рабочий стол\\source\\repos\\4.4 Массивы сумма\\Леша 4.4 домашка\\Леша 4.4 домашка.csproj",
+        "projectPath": "C:\\Users\\leon\\OneDrive\\Рабочий стол\\source\\repos\\Массивы сумма\\Леша 4.4 домашка\\Леша 4.4 домашка.csproj",
         "packagesPath": "C:\\Users\\leon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leon\\OneDrive\\Рабочий стол\\source\\repos\\4.4 Массивы сумма\\Леша 4.4 домашка\\obj\\",
+        "outputPath": "C:\\Users\\leon\\OneDrive\\Рабочий стол\\source\\repos\\Массивы сумма\\Леша 4.4 домашка\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Леша 4.4 домашка")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+918cc0606e3beb51ce1faccd896ca319c6d3d2d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Леша 4.4 домашка")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Леша 4.4 домашка")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
