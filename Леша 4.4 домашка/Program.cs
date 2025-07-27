@@ -10,9 +10,27 @@
             Console.WriteLine("Введите значения массивов:");
             int[] array = new int[5];
             for (int i = 0; i < array.Length; i++)
-            { 
-                array[i] = int.Parse(Console.ReadLine()); 
+            {
+                string number = Console.ReadLine();
+                if (int.TryParse(number, out int result))
+                {
+                    array[i] = result;
+                }
+                else
+                {
+                    while (!int.TryParse(number, out int resulT))
+                    {
+                        Console.WriteLine("Введите число");
+                        number = Console.ReadLine();
+                    }
+                }
             }
+            Console.WriteLine("Массив: ");
+            for (int i = 0; i < array.Length; i++)
+            {
+                Console.WriteLine(array[i]);
+            }
+            
 
             // 1) Среднее арифметическое положительных элементов массива.
 
